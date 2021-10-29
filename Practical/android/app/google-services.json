@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064524706325",
+    "project_id": "practiceass-de490",
+    "storage_bucket": "practiceass-de490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064524706325:android:a20b7e2dbd9d86c943941c",
+        "android_client_info": {
+          "package_name": "com.example.practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064524706325-f8pcr6li0pqsdc06cbuuf9ugl5g7j20h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practical",
+            "certificate_hash": "01de31226a50b6e92ca18a990edbf63137adf220"
+          }
+        },
+        {
+          "client_id": "1064524706325-1b9a2p4mk6l444fjd5h44dfqb0arcoa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc47tHKyzWsvDY7ap_hThCsMz-jh1-zgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064524706325-1b9a2p4mk6l444fjd5h44dfqb0arcoa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
